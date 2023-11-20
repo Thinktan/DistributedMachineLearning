@@ -1,3 +1,4 @@
 参考资料：
 1. [PyTorch分布式训练简明教程] https://zhuanlan.zhihu.com/p/113694038
 2. [35 分布式训练[动手学深度学习v2]] https://www.bilibili.com/video/BV1jU4y1G7iu?vd_source=79d99b3e10760f1f248bc2d540960745
+3. [34 多GPU训练实现[动手学深度学习v2]] https://www.bilibili.com/video/BV1MQ4y1R7Qg?vd_source=79d99b3e10760f1f248bc2d540960745
